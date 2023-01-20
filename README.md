@@ -1,2 +1,3 @@
-# based on my weekly twitter posts:
-https://twitter.com/500stocks 
+
+# https://twitter.com/500stocks 
+based on my weekly twitter posts
